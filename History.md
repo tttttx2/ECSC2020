@@ -28,10 +28,10 @@ countries participating as guest and thus not ranked are marked with 'guest (ran
 | Luxembourg     |       |       |       |       |        |        | dnf    | 20     | cancelled | dnf        |
 | Netherlands    |       |       |       |       |        |        |        | 16     | cancelled | 9          |
 | Portugal       |       |       |       |       |        |        |        | 10     | cancelled | 7          |
-| Canada         |       |       |       |       |        |        |        |        | cancelled | guest (15) |
+| Canada         |       |       |       |       |        |        |        |        | cancelled | guest (18) |
 | Slovenia       |       |       |       |       |        |        |        |        | cancelled | 15         |
 | Malta          |       |       |       |       |        |        |        |        | cancelled | 17         |
-| Slovakia       |       |       |       |       |        |        |        |        | cancelled | guest (18) |
+| Slovakia       |       |       |       |       |        |        |        |        | cancelled | guest (15) |
 |                |       |       |       |       |        |        |        |        |           |            |
 | **Total**      | **1** | **2** | **3** | **6** | **10** | **15** | **17** | **20** | **0**     | **19**     |
 
